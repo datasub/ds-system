@@ -1,0 +1,48 @@
+{
+  "name": "ds-system",
+  "version": "0.0.1",
+  "description": "Data Sub Tools",
+  "homepage": "https://github.com/datasub/system",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/datasub/system"
+  },
+  "bugs": {
+    "url": "https://github.com/datasub/system/issues",
+    "email": "support@automategreen.com"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "keywords": [
+    "tools",
+    "system"
+  ],
+  "author": {
+    "name": "Data Subsystem inc.",
+    "email": "admin@datasub.com"
+  },
+  "license": "MIT",
+  "dependencies": {
+      "node-uuid": "*",
+      "scripts": "*",
+      "cron": "*"
+  },
+  "gitHead": "",
+  "_id": "ds-system@0.0.1",
+  "_shasum": "",
+  "_from": "ds-system@*",
+  "_npmVersion": "2.5.0",
+  "_nodeVersion": "0.12.7",
+  "_npmUser": {
+    "name": "datasub",
+    "email": "admin@datasub.com"
+  },
+  "maintainers": [
+    {
+      "name": "datasub",
+      "email": "admin@datasub.com"
+    }
+  ]
+}
