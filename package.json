@@ -27,7 +27,8 @@
   "dependencies": {
       "node-uuid": "*",
       "scripts": "*",
-      "cron": "*"
+      "cron": "*",
+      "apn": "*"
   },
   "gitHead": "",
   "_id": "ds-system@0.0.1",
