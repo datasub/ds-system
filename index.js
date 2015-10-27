@@ -10,6 +10,7 @@ var dsSystem = {
     Model: require('./lib/model'),
     Controller: require('./lib/controller'),
     AppleService: require('./lib/apple-service'),
+    AndroidService: require('./lib/android-service'),
     ErrorHandler: require('./lib/errorHandler'),
 //    getUserPermission: require('./lib/getUserPermission'),
     acl: require('./lib/acl'),
