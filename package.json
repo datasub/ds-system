@@ -5,7 +5,7 @@
   "homepage": "https://github.com/datasub/system",
   "repository": {
     "type": "git",
-    "url": "https://github.com/datasub/system"
+    "url": "git+https://github.com/datasub/system.git"
   },
   "bugs": {
     "url": "https://github.com/datasub/system/issues",
@@ -25,15 +25,15 @@
   },
   "license": "MIT",
   "dependencies": {
-      "node-uuid": "*",
-      "scripts": "*",
-      "cron": "*",
-      "apn": "*"
+    "node-uuid": "*",
+    "scripts": "*",
+    "cron": "*",
+    "apn": "*"
   },
-  "gitHead": "",
+  "gitHead": "f4bd278ad948e101a9d1dd83bf78690e7160e2a6",
   "_id": "ds-system@0.0.1",
-  "_shasum": "",
-  "_from": "ds-system@*",
+  "_shasum": "5e1b03113a7fbf0f60f9b9946fc929d574949fd4",
+  "_from": "git://github.com/datasub/ds-system.git",
   "_npmVersion": "2.5.0",
   "_nodeVersion": "0.12.7",
   "_npmUser": {
@@ -45,5 +45,7 @@
       "name": "datasub",
       "email": "admin@datasub.com"
     }
-  ]
+  ],
+  "readme": "ERROR: No README data found!",
+  "_resolved": "git://github.com/datasub/ds-system.git#f4bd278ad948e101a9d1dd83bf78690e7160e2a6"
 }
