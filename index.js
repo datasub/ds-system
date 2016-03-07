@@ -14,7 +14,8 @@ var dsSystem = {
     ErrorHandler: require('./lib/errorHandler'),
 //    getUserPermission: require('./lib/getUserPermission'),
     acl: require('./lib/acl'),
-    mail: require('./lib/sendMail')
+    mail: require('./lib/sendMail'),
+    analitics: require('./lib/analitics')
 };
 
 module.exports = dsSystem;
